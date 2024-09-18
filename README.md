@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Frontend tools and technology , NodeJS, Python, Java, Golang**
 
-- 📫 How to reach me **aditijohari5@gmail.com**
+- 📫 How to reach me **aditijohari25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
