@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aditi Johari</h1>
-<h4 align="center">A devoted software engineer with 4 years of experience as a full stack developer, now working for Cisco in Bangalore, India. This autumn, I will begin my master's programme in Computer Science with an emphasis on Natural Language Processing (NLP) at the University of Edinburgh in Scotland, United Kingdom.</h4>
+<h4 align="center">A devoted software engineer with 4 years of experience as a full stack developer, currrently completing my master's programme in Computer Science with an emphasis on Natural Language Processing (NLP) at the University of Edinburgh in Scotland, United Kingdom.</h4>
 <h4 align = "center"> My professional experience has given me a solid foundation in both front-end and back-end development, allowing me to create reliable, scalable, and user-friendly applications.</h4>
 <br/>
 
