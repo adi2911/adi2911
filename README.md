@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Frontend tools and technology , NodeJS, Python, Java, Golang**
 
-- 📫 How to reach me **aditijohari25@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aditi-johari-0261a9154" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditi-johari-0261a9154" height="30" width="40" /></a>
